@@ -1,6 +1,5 @@
 # DocMind
-🧠 DocMind – The AI That Remembers What You Read
-    DocMind is an intelligent document assistant that not only summarizes documents, but also remembers what it's read.It uses AI to generate concise summaries, stores them in a memory database, and recommends previously s
+🧠 DocMind – The AI That Remembers What You Read.
 
     DocMind is an intelligent document assistant that not only summarizes documents, but also remembers what it's read.
     It uses AI to generate concise summaries, stores them in a memory database, and recommends previously seen similar documents when a new one is uploaded — giving you instant context and insight.
