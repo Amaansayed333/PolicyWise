@@ -27,6 +27,6 @@ An intelligent AI-powered system that analyzes insurance policies, extracts crit
 
 ## 🏗️ **Architecture**
 
-PDF Upload → Text Extraction → AI Processing → Risk Analysis →
+Policy Upload → Text Extraction → AI Processing → Risk Analysis →
 Similarity Matching → Recommendation Engine → Database Storage →
 Audio Generation → Web Interface
