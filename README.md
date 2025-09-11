@@ -26,3 +26,7 @@ An intelligent AI-powered system that analyzes insurance policies, extracts crit
 - **NLP**: Regular Expressions (Pattern matching and extraction)
 
 ## 🏗️ **Architecture**
+
+PDF Upload → Text Extraction → AI Processing → Risk Analysis →
+Similarity Matching → Recommendation Engine → Database Storage →
+Audio Generation → Web Interface
