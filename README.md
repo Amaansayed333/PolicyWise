@@ -1,27 +1,28 @@
-# DocMind
-🧠 DocMind – The AI That Remembers What You Read.
+\# 🛡️ Insurance Policy AI Agent
 
-    DocMind is an intelligent document assistant that not only summarizes documents, but also remembers what it's read.
-    It uses AI to generate concise summaries, stores them in a memory database, and recommends previously seen similar documents when a new one is uploaded — giving you instant context and insight.
+An intelligent AI-powered system that analyzes insurance policies, extracts critical information, identifies risk factors, and provides data-driven purchase recommendations with voice assistance capabilities.
 
-✅ Key Features:
+## 🚀 **Key Features**
 
-    📄 Upload any document and get a clean AI-generated summary
+- **📄 Intelligent Policy Analysis**: Automatically extracts and summarizes complex insurance policies
+- **📅 Smart Date Extraction**: Identifies crucial dates (policy start/end, renewal, premium due dates)
+- **⚠️ Risk Assessment**: Categorizes risk factors into High, Medium, and Low priority levels
+- **🎯 AI Recommendations**: Provides purchase recommendations based on comprehensive policy analysis
+- **🔊 Voice Assistant**: Text-to-speech functionality with downloadable audio summaries
+- **🧠 Memory System**: Remembers previously analyzed policies and shows similar policy comparisons
+- **❓ Interactive Q&A**: Answer specific questions about policy terms and conditions
+- **🎨 Modern UI**: Responsive web interface with glassmorphism design and animated backgrounds
 
-    🧠 Memory-powered engine — stores summaries in SQLite for future use
+## 🛠️ **Technology Stack**
 
-    🧭 When a new document is uploaded, detects similar summaries from past uploads
+- **Frontend**: Streamlit (Interactive Web Application)
+- **AI/ML**: 
+  - Transformers (BART, DistilBERT, BERT models)
+  - Sentence-Transformers (Semantic similarity)
+  - PyTorch (Deep learning backend)
+- **Document Processing**: PyMuPDF (PDF text extraction)
+- **Database**: SQLite (Policy storage and retrieval)
+- **Audio**: pyttsx3 (Text-to-speech synthesis)
+- **NLP**: Regular Expressions (Pattern matching and extraction)
 
-    ❓ Built-in question-answering system lets you interact with the content
-
-    🔊 Offline Text-to-Speech reads the summary aloud
-
-    💡 Ideal for researchers, students, analysts, or anyone managing lots of PDFs
-
-🔧 Tech Stack
-Feature	Tool
-PDF Reading	PyMuPDF (fitz)
-Summarization & QA	HuggingFace Transformers
-Memory Storage	SQLite3
-Frontend UI	Streamlit
-TTS	pyttsx3 (offline)
+## 🏗️ **Architecture**
