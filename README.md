@@ -33,7 +33,7 @@ Audio Generation → Web Interface
 
 ## 📸 Demo Screenshot
 
-![Dashboard Screenshot](result-1.png)
-![Dashboard Screenshot](result-2.png)
-![Dashboard Screenshot](result-3.png)
-![Dashboard Screenshot](result-4.png)
+![Dashboard Screenshot](page-1.png)
+![Dashboard Screenshot](page-2.png)
+![Dashboard Screenshot](page-3.png)
+![Dashboard Screenshot](page-4.png)
