@@ -30,3 +30,10 @@ An intelligent AI-powered system that analyzes insurance policies, extracts crit
 Policy Upload → Text Extraction → AI Processing → Risk Analysis →
 Similarity Matching → Recommendation Engine → Database Storage →
 Audio Generation → Web Interface
+
+## 📸 Demo Screenshot
+
+![Dashboard Screenshot](result-1.png)
+![Dashboard Screenshot](result-2.png)
+![Dashboard Screenshot](result-3.png)
+![Dashboard Screenshot](result-4.png)
